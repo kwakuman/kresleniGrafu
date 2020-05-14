@@ -1,0 +1,6 @@
+datumStart,2020-02-20 11:38:00
+datumStop,2020-02-20 12:18:00
+osaYMin,0
+osaYMax,50
+intervalLokalnichMaxim,1
+intervalOsaX,50

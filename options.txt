@@ -1,0 +1,5 @@
+jmenoVstupnihoSouboru,Chrudim734.txt
+intervalLokalnichMaxim,20
+intervalOsaX,150
+osaYMin,0
+osaYMax,50
